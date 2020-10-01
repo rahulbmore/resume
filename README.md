@@ -1,2 +1,2 @@
 # resume
-Rahul Bapurao More 
+full name = Rahul Bapurao More 
